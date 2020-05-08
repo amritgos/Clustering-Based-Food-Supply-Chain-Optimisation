@@ -3,8 +3,8 @@ Implemented a NK Hybrid genetic algorithm for geographical clustering of village
 
 link to Clustering paper : https://ieeexplore.ieee.org/abstract/document/8341487
 
-Requirements
-pandas
+Requirements\
+pandas\
 numpy 
-matplotlib
-geopy
+matplotlib\
+geopy\
