@@ -7,4 +7,5 @@ Requirements\
 pandas\
 numpy 
 matplotlib\
-geopy
+geopy\
+googlemaps
